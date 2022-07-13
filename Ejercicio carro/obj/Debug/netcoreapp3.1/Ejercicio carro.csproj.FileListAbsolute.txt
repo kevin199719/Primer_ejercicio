@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\bin\Debug\netcoreapp3.1\Ejercicio carro.exe
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\bin\Debug\netcoreapp3.1\Ejercicio carro.deps.json
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\bin\Debug\netcoreapp3.1\Ejercicio carro.runtimeconfig.json
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\bin\Debug\netcoreapp3.1\Ejercicio carro.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\bin\Debug\netcoreapp3.1\Ejercicio carro.dll
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\bin\Debug\netcoreapp3.1\Ejercicio carro.pdb
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.dll
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.pdb
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Ejercicio carro\Ejercicio carro\obj\Debug\netcoreapp3.1\Ejercicio carro.GeneratedMSBuildEditorConfig.editorconfig
